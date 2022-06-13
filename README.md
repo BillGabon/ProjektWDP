@@ -5,7 +5,7 @@ This program uses standard libraries:
 - <stdlib.h>
 - <time.h>
 - <string.h>
-- 
+
 as well as
 
 - [<raylib.h>](raylib.com)
