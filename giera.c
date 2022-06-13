@@ -98,6 +98,7 @@ int main()
     score = 0;
     lost = 0;
     go = 0;
+
     col11 = rand();
     col12 = rand();
     col13 = rand();
