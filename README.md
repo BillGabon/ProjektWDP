@@ -25,7 +25,7 @@ This game is inspired by [this](https://moreorless.io/game/country-size) one. Tw
 Ten program korzysta ze standardowych bibliotek:
 - <stdio.h>
 - <stdlib.h>
-- <godzina.h>
+- <time.h>
 - <string.h>
 
 jak również
