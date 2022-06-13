@@ -8,7 +8,7 @@ This program uses standard libraries:
 
 as well as
 
-- [<raylib.h>](raylib.com)
+- [<raylib.h>](www.raylib.com)
 
 To compile it you need to:
 - install gcc compiler
